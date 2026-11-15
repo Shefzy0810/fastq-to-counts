@@ -1,0 +1,11 @@
+name: deseq2
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.4
+  - bioconductor-tximport
+  - bioconductor-deseq2
+  - r-readr
+  - bioconductor-airway
+prefix: /home/shefzy/miniforge3/envs/deseq2

@@ -1,0 +1,8 @@
+name: multiqc
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - pip
+  - python=3.12
+prefix: /home/shefzy/miniforge3/envs/multiqc
