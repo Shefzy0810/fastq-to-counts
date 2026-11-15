@@ -1,0 +1,7 @@
+Genes tested in both: 10690
+Significant (padj<0.05) ours: 825 | published: 3303
+Significant in both: 803
+Our hits confirmed by published: 97.3%
+Published hits recovered by ours: 24.3%
+Same direction among shared hits: 803 of 803
+Pearson r of log2FC (all shared genes): 0.834
