@@ -2,3 +2,4 @@ data/*.fastq.gz
 ref/
 quant/
 qc/*.zip
+results/*.rds
