@@ -1,5 +1,7 @@
 # FASTQ to counts: an RNA-seq pipeline validated on the airway dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24238646.svg)](https://doi.org/10.5281/zenodo.24238646)
+
 A complete, reproducible bulk RNA-seq workflow, from raw sequencing reads to differential expression, run on a Windows laptop (WSL2 Ubuntu, 7.6 GB RAM).
 
 **Result:** the pipeline reproduces the published dexamethasone response in human airway smooth muscle cells. 97.3% of the genes it calls significant are also significant in the published analysis, and all 803 shared hits change in the same direction, using about 10% of the original sequencing depth.
@@ -103,3 +105,6 @@ Himes BE, Jiang X, Wagner P, et al. RNA-Seq transcriptome profiling identifies C
 
 ## Author
 Sheriffdeen Babatunde Ogunsola · ORCID [0009-0003-1923-8377](https://orcid.org/0009-0003-1923-8377) · [GitHub](https://github.com/Shefzy0810)
+
+## Citation
+Ogunsola SB. FASTQ to counts: an RNA-seq pipeline validated on the airway dataset (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.24238646
