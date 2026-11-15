@@ -3,10 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - multiqc
-  - fastqc
-  - fastp
-  - salmon
-  - sra-tools
-  - gh
-prefix: /home/shefzy/miniforge3/envs/rnaseq
+  - fastqc=0.13.0
+  - salmon=2.11.0
+  - sra-tools=3.4.1
+  - fastp=0.22.0
